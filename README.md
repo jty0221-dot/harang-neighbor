@@ -2,6 +2,8 @@
 
 네이버 블로그 이웃 관리를 돕는 Windows 프로그램의 공식 배포 저장소입니다.
 
+지원 환경: Windows 10 1809(OS 빌드 17763) 이상 또는 Windows 11, x64.
+
 [최신 버전 다운로드](https://github.com/jty0221-dot/harang-neighbor/releases/latest)
 
 ZIP을 내려받아 압축을 풀고 EXE를 실행하세요. 기존 사용자는 프로그램을 종료한 뒤 실행 파일을 교체하고, EXE 옆 data 폴더는 그대로 보존하세요.
